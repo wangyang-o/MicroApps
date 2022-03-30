@@ -8,7 +8,7 @@ export default defineConfig({
 	server: {
 		// 自动打开
 		open: true,
-		port: 3030,
+		port: 4000,
 		// 设为 true 时若端口已被占用则会直接退出，而不是尝试下一个可用端口。
 		strictPort: true,
 		// proxy: {
